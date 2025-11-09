@@ -8,7 +8,7 @@
       "!lib/utils.ts",
       "!hooks/use-mobile.ts"
     ]
-  },
+  }, 
   "linter": {
     "rules": {
       "suspicious": {
