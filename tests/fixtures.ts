@@ -7,7 +7,7 @@ type Fixtures = {
   babbageContext: UserContext;
   curieContext: UserContext;
 };
-
+ 
 export const test = baseTest.extend<object, Fixtures>({
   adaContext: [
     async ({ browser }, use, workerInfo) => {
