@@ -15,7 +15,7 @@ export type UserContext = {
   context: BrowserContext;
   page: Page;
   request: APIRequestContext;
-};
+}; 
 
 export async function createAuthenticatedContext({
   browser,
