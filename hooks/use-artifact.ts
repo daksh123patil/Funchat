@@ -18,7 +18,7 @@ export const initialArtifactData: UIArtifact = {
     height: 0,
   },
 };
-
+ 
 type Selector<T> = (state: UIArtifact) => T;
 
 export function useArtifactSelector<Selected>(selector: Selector<Selected>) {
