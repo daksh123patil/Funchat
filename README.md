@@ -1,16 +1,17 @@
-<a href="#">
-  <img alt="FunChat - Smart AI Chatbox" src="app/(chat)/opengraph-image.png">
-  <h1 align="center">FunChat</h1>
+<a href="https://chat.vercel.ai/">
+  <img alt="Next.js 14 and App Router-ready AI chatbot." src="app/(chat)/opengraph-image.png">
+  <h1 align="center">Chat SDK</h1>
 </a>
 
 <p align="center">
-    FunChat is a smart and interactive AI chatbox that helps you talk, learn and enjoy conversations easily.
+    Chat SDK is a free, open-source template built with Next.js and the AI SDK that helps you quickly build powerful chatbot applications.
 </p>
 
 <p align="center">
-  <a href="#about"><strong>About</strong></a> ·
+  <a href="https://chat-sdk.dev"><strong>Read Docs</strong></a> ·
   <a href="#features"><strong>Features</strong></a> ·
-  <a href="#chat"><strong>Start Chatting</strong></a> ·
-  <a href="#contact"><strong>Contact</strong></a>
+  <a href="#model-providers"><strong>Model Providers</strong></a> ·
+  <a href="#deploy-your-own"><strong>Deploy Your Own</strong></a> ·
+  <a href="#running-locally"><strong>Running locally</strong></a>
 </p>
 <br/>
